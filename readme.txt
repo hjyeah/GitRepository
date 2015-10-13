@@ -6,4 +6,9 @@ add ne wbranch dev
 <<<<<<< HEAD
 nnmmnnnnnnvvnnnnn
 vvvvvvvvvvvvvvv
+<<<<<<< HEAD
 zzzzzzzzzz
+=======
+xxxx
+cccc
+>>>>>>> feature1
